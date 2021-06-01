@@ -20,3 +20,5 @@ print("Applicazione che si connette a YF per scaricare i dati di Microsoft!")
 print(dati.head())
 
 
+print("progetto finito. Faccio l'ultimo push.")
+
